@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         initium-minimap
-// @version      0.1
-// @description  Adds a Map to Initium!
-// @author       Consilium
-// @match       https://www.playinitium.com/*
-// @match       http://www.playinitium.com/*
-// @exclude       http://www.playinitium.com/login.jsp
-// @exclude       https://www.playinitium.com/login.jsp
-// @grant        none
+// @name            initium-minimap
+// @namespace       https://github.com/EFox2413/initiumGrease
+// @version         0.1.0.0
+// @updateURL       https://raw.githubusercontent.com/EFox2413/initiumGrease/master/initium-minimap.js
+// @downloadURL     https://raw.githubusercontent.com/EFox2413/initiumGrease/master/initium-minimap.js
+// @supportURL      https://github.com/EFox2413/initiumGrease/issues
+// @match           https://www.playinitium.com/*
+// @match           http://www.playinitium.com/*
+// @grant           none
 // ==/UserScript==
 /* jshint -W097 */
 'use strict';
